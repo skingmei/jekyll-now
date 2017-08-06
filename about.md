@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+デザイナー志望の高校３年生。
+最近は脂肪のほうが付いてきている。
 
-### More Information
+##### Contact me
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[Twitter](http://twitter.com/t0531313pc)
+ツイッターしか見てないヨ　DM開放してる
