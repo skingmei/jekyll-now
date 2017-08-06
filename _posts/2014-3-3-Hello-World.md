@@ -1,10 +1,15 @@
 ---
 layout: post
-title: You're up and running!
+title: 何このブログ
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
-
-![_config.yml]({{ site.baseurl }}/images/config.png)
-
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+皆さんこんにちは "Mei" という者です。<br>
+今までGithubなんて開発者でもないし使ったことなかったんですけど、<br>
+とっても便利な静的Webページを作れるJekyllちゃんを使って遊んで見たくて作ってみました。<br>
+<br>
+#### 書き綴る内容だけど... <br>
+-Photoshopを使って作る画像講座だったり<br>
+-Minecraft:Spigotのプラグイン紹介だったり<br>
+などやりたいことが幾つかあるのでしばらく楽しめそうです。<br>
+<br>
+それでは次の更新まで暫しお待ちを...
