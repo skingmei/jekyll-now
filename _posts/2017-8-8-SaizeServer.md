@@ -32,7 +32,7 @@ Sazeriyaサーバーについての情報です。<br>
 ***
 ### > <font color="seagreen"> 参考になる記事  </font>  
 **カスタムレシピ一覧**<br>
-https://skingmei.github.io/ServerRecipe/ <br>
+[https://skingmei.github.io/ServerRecipe/](https://skingmei.github.io/ServerRecipe/) <br>
 **チェストロックのかけ方**<br>
 未作成<br>
 **プロット(土地)の買い方**<br>
