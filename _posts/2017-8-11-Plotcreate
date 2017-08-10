@@ -1,0 +1,18 @@
+---
+layout: post
+title: 何このブログ
+---
+
+Plotの作成と管理の仕方について。<br>
+
+{% if post.excerpt != post.content %}
+    <a href="{{ site.baseurl }}{{ post.url }}">Read more</a>
+{% endif %}
+
+この記事はPlugin"PlotSquared"でのプロットの買い方と、管理の仕方(主にフラッグ)の解説記事です。
+またこの記事はサイゼ鯖での方法であって設定などデフォルトと異なる可能性があるのでご注意ください。
+
+### >プロットの買い方
+![プロット1](http://i.imgur.com/gcHyKfV.jpg)
+プロットの買い方とくっつけ方は簡単です。
+欲しい土地の上で /plot claim で土地が買えます。
